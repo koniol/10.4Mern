@@ -1,5 +1,6 @@
 export default {
   locale: 'en',
+  editPost: 'Edit Post',
   messages: {
     siteTitle: 'MERN Starter Blog',
     addPost: 'Add Post',
